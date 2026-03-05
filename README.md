@@ -1,2 +1,8 @@
 # Indycraft-Official-Texture-Pack
-To make the texture pack work you need to extract it (unzip) and have optifine on forge or [EMF] Entity Model Features and [ETF] Entity Texture Features on fabric installed.
+
+## License
+
+This project is licensed under the Personal Non-Commercial Source License (PNCSL) v1.0.
+
+Commercial use, redistribution, or sublicensing is not allowed without permission.
+See the LICENSE file for details.
