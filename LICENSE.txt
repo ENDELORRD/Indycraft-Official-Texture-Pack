@@ -1,0 +1,81 @@
+Personal Non-Commercial Software License (PNCSL) v1.0
+
+Copyright (c) [2026] [ENDEL]
+
+All rights reserved.
+
+1. Definitions
+
+“Software” refers to the source code, documentation, assets, and any associated files distributed in this repository.
+
+“Author” refers to the copyright holder of the Software.
+
+“User” refers to any individual or entity accessing or using the Software.
+
+2. Permitted Use
+
+Subject to the conditions of this license, the Author grants Users a limited, non-exclusive, non-transferable, revocable license to:
+
+- View the source code
+
+- Download the Software
+
+- Use the Software for personal, educational, and non-commercial purposes
+
+This permission does not grant ownership or additional rights to the Software.
+
+3. Prohibited Uses
+
+Without explicit prior written permission from the Author, Users may not:
+
+- Use the Software or any portion of it for commercial purposes.
+
+- Sell, license, sublicense, rent, lease, or distribute the Software.
+
+- Redistribute the Software publicly, including mirrors, package distributions, or alternative repositories.
+
+- Incorporate the Software into commercial, proprietary, or revenue-generating products or services.
+
+- Claim authorship or ownership of the Software or its derivatives.
+
+4. Modifications
+
+Users may modify the Software privately for personal or educational use only.
+
+However:
+
+- Modified versions may not be distributed.
+
+- Modified versions may not be published publicly without permission.
+
+5. Contributions
+
+Contributions are welcome but must follow this process:
+
+- Users must contact the Author before submitting contributions.
+
+- The Author has full discretion to accept, reject, or modify any contribution.
+
+- By submitting a contribution, the contributor agrees that the Author may use, modify, and redistribute the contribution as part of the project.
+
+6. Attribution
+
+Users must retain all copyright notices and references to the Author within the Software.
+
+7. No Warranty
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+8. Termination
+
+Any violation of this license will automatically terminate the rights granted under this license.
+
+Upon termination, the User must stop using and delete all copies of the Software.
+
+9. Contact
+
+For permissions, commercial licensing, or contribution inquiries, contact:
+
+[YOU SHOULD CONTACT THE AUTHOR BY DISCORD (@endelorrd)]
